@@ -1,2 +1,2 @@
 # josephjhenry.github.io
-Personal faculty webpage
+Personal faculty webpage 
